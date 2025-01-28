@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+}
+
+hr{
+    margin-right: 30%;
+    height: 3px;
+    background-color: black;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 1.2rem;
+    color: #0985D8;
+    margin-bottom: 0.25rem;
+}
+
+h3{
+    font-size: 1rem;
+    color: #13B435;
+}
+
+p{
+    margin-right: 30%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
